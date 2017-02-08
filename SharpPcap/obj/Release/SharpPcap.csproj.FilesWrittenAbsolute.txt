@@ -1,0 +1,6 @@
+/media/toshko/Storage/DEV/XBSlink/SharpPcap/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/toshko/Storage/DEV/XBSlink/SharpPcap/bin/Release/SharpPcap.dll.mdb
+/media/toshko/Storage/DEV/XBSlink/SharpPcap/bin/Release/SharpPcap.dll
+/media/toshko/Storage/DEV/XBSlink/SharpPcap/obj/Release/SharpPcap.dll
+/media/toshko/Storage/DEV/XBSlink/SharpPcap/obj/Release/SharpPcap.dll.mdb
+/media/toshko/Storage/DEV/XBSlink/SharpPcap/bin/Release/PacketDotNet.dll
